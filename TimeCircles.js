@@ -845,7 +845,7 @@
                 color: "#80BB51"
             },
             Seconds: {
-                show: true,
+                show: false,
                 text: "Seconds",
                 color: "#FFFF00"
             }
